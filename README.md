@@ -1,4 +1,4 @@
-_SuperDataScience-Tableau-2018 course | jukka.kansanaho@gmail.com | 2019-010-07_
+_SuperDataScience-Tableau-2018 course | jukka.kansanaho@gmail.com | 2019-10-07_
 
 # SuperDataScience-Tableau-2018
 
