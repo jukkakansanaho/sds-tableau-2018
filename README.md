@@ -13,7 +13,7 @@ The courses on this path are:
 
 Tableau 2018 course page: https://www.superdatascience.com/courses/tableau-2018-hands-on-tableau-training-for-data-science/
 
-# Vizualisations
+# Visualizations
 Here are Tableau visualizations from this course.
 
 
